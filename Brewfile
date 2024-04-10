@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
+brew "gh"
 brew "git"
 brew "starship"
 brew "vim"
