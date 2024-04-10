@@ -1,3 +1,9 @@
+# brewのダンプファイルの確認の仕方
+- brew bundle dump
+
+# brewのダンプファイルのインストール方補う
+- brew bundle
+
 # brewでインストールしているアプリ一覧
 ==> Formulae
 git			

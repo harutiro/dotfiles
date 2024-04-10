@@ -1,12 +1,15 @@
 tap "homebrew/bundle"
 brew "gh"
 brew "git"
+brew "mas"
 brew "starship"
 brew "vim"
 cask "balenaetcher"
+cask "cloudflare-warp"
 cask "discord"
 cask "docker"
 cask "fig"
+cask "gitkraken"
 cask "google-chrome"
 cask "google-drive"
 cask "iterm2"
@@ -15,6 +18,14 @@ cask "microsoft-auto-update"
 cask "microsoft-teams"
 cask "slack"
 cask "visual-studio-code"
+cask "vlc"
+cask "zoom"
+mas "LINE", id: 539883307
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Word", id: 462054704
+mas "Paste", id: 967805235
+mas "Xcode", id: 497799835
 vscode "alefragnani.project-manager"
 vscode "dart-code.dart-code"
 vscode "dart-code.flutter"
