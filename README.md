@@ -1,71 +1,35 @@
 # brewのダンプファイルの確認の仕方
-- brew bundle dump
+- brew bundle dump --no-vscode
 
 # brewのダンプファイルのインストール方補う
 - brew bundle
 
-# brewでインストールしているアプリ一覧
-==> Formulae
-git			
-ruby	
-node
-curl			
-hugo				
-wget
-gcc
-starship
-
-==> Casks
-slack
-fig					
-zoom
-
 # インストールしているアプリ一覧
-## kjlb
-- クラウドフレアワープ
-- Tex
-
-## LiT
-Adobe
-premiere
-illustrator
-
-## Programing
-Authy
-balenaEtcher
-DB Browser for SQLiteApp
-Docker
-Fig
-FileZilla
-iTerm
-LanScan
-Raspberry Pi Imager
-VSCode
-XCode
-JetBrainsToolBox
-	AndroidStudio
-	Intellij
-
-## office
-Excel
-OneNote
-PowerPoint
-Teams
-Word
-OneDrive
+## Program
+- DB Browser for SQLiteApp
+- Docker
+- FileZilla
+- iTerm
+- LanScan
+- Raspberry Pi Imager
+- VSCode
+- XCode
+- JetBrainsToolBox
+  - AndroidStudio
+  - Intellij
 
 ## 通常
-VLC
-Zoom
-Slack
-Scroll Reverser
-Paste
-NearDrop
-Discord
-FireFox 
-Chorome
-GoogleDrive -> ssh同期
-Line
+- VLC
+- Zoom
+- Slack
+- Scroll Reverser
+- Paste
+- NearDrop
+- Discord
+- FireFox 
+- Chrome
+- GoogleDrive -> ssh同期
+- Line
 
 # ドキュメント一覧
 
